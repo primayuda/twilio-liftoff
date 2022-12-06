@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "bullmq": "^1.15.1",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "p-queue": "^6.6.2",
     "twilio": "^3.60.0"
   },
